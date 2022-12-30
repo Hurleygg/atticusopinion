@@ -1,0 +1,2 @@
+# atticusopinion
+Just some learning
